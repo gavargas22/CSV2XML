@@ -1,4 +1,4 @@
-== CSV to XML Data Converter
+# CSV to XML Data Converter
 
 This rails app converts data from the CSV to XML formats. It was developed to convert datasets containing faculty and staff information.
 
